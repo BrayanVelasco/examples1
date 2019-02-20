@@ -1,0 +1,23 @@
+{
+  "name": "redux-todo-app-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "redux": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EscuelaIt/redux-todo-app-base.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EscuelaIt/redux-todo-app-base/issues"
+  },
+  "homepage": "https://github.com/EscuelaIt/redux-todo-app-base#readme"
+}
